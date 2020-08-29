@@ -18,6 +18,7 @@
 		7729D99E24C0B9AA00FB8EFF /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7729D99D24C0B9AA00FB8EFF /* ListView.swift */; };
 		776E672524CDC1680085CED6 /* MyContacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776E672424CDC1680085CED6 /* MyContacts.swift */; };
 		776E672724CDC7A80085CED6 /* ContactRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776E672624CDC7A80085CED6 /* ContactRow.swift */; };
+		776E672924E0601C0085CED6 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776E672824E0601C0085CED6 /* LoginView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		7729D99D24C0B9AA00FB8EFF /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		776E672424CDC1680085CED6 /* MyContacts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyContacts.swift; sourceTree = "<group>"; };
 		776E672624CDC7A80085CED6 /* ContactRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactRow.swift; sourceTree = "<group>"; };
+		776E672824E0601C0085CED6 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				7729D99D24C0B9AA00FB8EFF /* ListView.swift */,
 				776E672424CDC1680085CED6 /* MyContacts.swift */,
 				776E672624CDC7A80085CED6 /* ContactRow.swift */,
+				776E672824E0601C0085CED6 /* LoginView.swift */,
 				77029AF324AA7282007896AD /* Assets.xcassets */,
 				77029AF824AA7282007896AD /* LaunchScreen.storyboard */,
 				77029AFB24AA7282007896AD /* Info.plist */,
@@ -164,6 +167,7 @@
 				776E672524CDC1680085CED6 /* MyContacts.swift in Sources */,
 				77029AEE24AA727F007896AD /* AppDelegate.swift in Sources */,
 				77029AF024AA727F007896AD /* SceneDelegate.swift in Sources */,
+				776E672924E0601C0085CED6 /* LoginView.swift in Sources */,
 				7729D99E24C0B9AA00FB8EFF /* ListView.swift in Sources */,
 				77029AF224AA727F007896AD /* ContentView.swift in Sources */,
 				7729D99C24C0B69300FB8EFF /* CellRow.swift in Sources */,
